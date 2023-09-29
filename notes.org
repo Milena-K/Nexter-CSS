@@ -1,0 +1,11 @@
+#+title: Notes
+
+* What I've learned:
+- How to build complex and modern layout using advanced CSS Grid techniques
+- How to chose different row and column track sizes for different types of content
+- How and why to create grids inside of grids
+- How to create a responsive component without media queries
+- How to build a small component using CSS Grid
+- How to deal with overlapping grid items
+- Why images are special and behave differently than other grid items
+- How to decide if flexbox is a better tool in certain situations
